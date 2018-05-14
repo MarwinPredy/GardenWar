@@ -314,9 +314,9 @@
   <ItemGroup>
     <Compile Include="Assets\Lapin.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\Tir.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\BigHeads\BigHead Starter\Shader\Outlined Diffuse.shader" />
     <None Include="Assets\LowpolyVegetationPackFree\Readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
